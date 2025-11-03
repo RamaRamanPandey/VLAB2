@@ -13,8 +13,8 @@ Fill a brief description of this experiment here
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
 <b> Institute | Rama Raman Pandey<b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Email id|  ramaramanpandey2008@g.mail   <b>  
+<b> Department | Information Tectnology 
 
 ### Contributors List
 
