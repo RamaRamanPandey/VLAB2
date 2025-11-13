@@ -22,5 +22,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 1 | sumit Kumar Patel| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | skumarpate1898@gmail.com
 2 |Ashish  kumar|Ashutosh Sir  | Information Technology | Rajkiya Engineering college,banda |--
 3 |sanyog Patel|Ashutosh Sir  | Mechnical Engineering | Rajkiya Engineering college,banda |--
-4 |SHIVESH|Ashutosh Sir  |Mechnical Engineering | Rajkiya Engineering college,banda |--
+4 |shivesh|Ashutosh Sir  |Mechnical Engineering | Rajkiya Engineering college,banda |--
 
