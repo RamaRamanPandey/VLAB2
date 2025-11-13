@@ -9,7 +9,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer Rama Raman Pandey| <b> :Create a VR scene of the circuit with the condenser, galvanometer, and high resistance.
+<b>Name of Developer Rama Raman Pandey| <b> Create a VR scene of the circuit with the condenser, galvanometer, and high resistance.
 :--|:--|
 <b> Institute | Rajkiya Engineering college,banda<b>  
 <b> Email id|  ramaramanpandey2008@g.mail   <b>  
