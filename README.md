@@ -20,6 +20,8 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | none| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | pata nahi hai
-2 |Ashish | Ahihish kumar | Information Technology | Rajkiya Engineering college,banda |--
+1 | sumit Kumar Patel| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | skumarpate1898@gmail.com
+2 |Ashish  kumar|Ashutosh Sir  | Information Technology | Rajkiya Engineering college,banda |--
+3 |sanyog Patel|Ashutosh Sir  | Mechnical Engineering | Rajkiya Engineering college,banda |--
+4 |shivesh sukla|Ashutosh Sir  |Mechnical Engineering | Rajkiya Engineering college,banda |--
 
