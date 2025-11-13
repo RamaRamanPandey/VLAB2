@@ -20,5 +20,6 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | none| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | pata nahi
-2 | ..|.. . | . | . | .
+1 | none| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | pata nahi hai
+2 |Ashish | Ahihish kumar | Information Technology | Rajkiya Engineering college,banda |--
+
