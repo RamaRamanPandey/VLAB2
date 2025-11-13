@@ -10,9 +10,9 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer Rama Raman Pandey| <b> Fill the name of experiment owner here :Create a VR scene of the circuit with the condenser, galvanometer, and high resistance.
 :--|:--|
-<b> Institute | Rama Raman Pandey<b>  
+<b> Institute | Rajkiya Engineering college,banda<b>  
 <b> Email id|  ramaramanpandey2008@g.mail   <b>  
 <b> Department | Information Tectnology 
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | none| Ashutosh Sir | Information Technology |Rajkiya Engineering college,banda  | pata nahi
+2 | ..|.. . | . | . | .
