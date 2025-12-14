@@ -1,0 +1,5 @@
+{
+  "name": "ThermoLog Pro - Virtual Data Logger",
+  "description": "A professional-grade virtual data logger simulating ambient temperature and thermopile voltage readings. Features real-time visualization, CSV export, and AI-powered data analysis.",
+  "requestFramePermissions": []
+}

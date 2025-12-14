@@ -1,27 +1,20 @@
-## Introduction
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/10mbSMg3o6iIJFWubhx8e33IW9702dWzf
+
+## Run Locally
+
+**Prerequisites:**  Node.js
 
 
-<b>Discipline | <b>Virtual Lab
-:--|:--|
-<b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> Create a VR scene of the circuit with the condenser, galvanometer, and high resistance.
-### About the Experiment 
-
-Fill a brief description of this experiment here
-
-<b>Name of Developer Rama Raman Pandey| <b> Create a VR scene of the circuit with the condenser, galvanometer, and high resistance.
-:--|:--|
-<b> Institute | Rajkiya Engineering college,banda<b>  
-<b> Email id|  ramaramanpandey2008@g.mail   <b>  
-<b> Department | Information Tectnology 
-
-### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | sumit Kumar Patel| student | Information Technology |Rajkiya Engineering college,banda  | skumarpate1898@gmail.com
-2 |Ashish  kumar|student  | Information Technology | Rajkiya Engineering college,banda |ashishgangwar7500@gmail.com
-3 |sanyog Patel|student | Mechnical Engineering | Rajkiya Engineering college,banda |patelsanyog63@gmail.com
-4 |Shivesh Sukla|student |Mechnical Engineering | Rajkiya Engineering college,banda |shiveshshukla958060@gmail.com
-
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
