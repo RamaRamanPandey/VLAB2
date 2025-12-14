@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <title>ThermoLog Pro - VR Edition</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- A-Frame for VR -->
@@ -259,7 +261,8 @@
              </button>
         </div>
 
-        <a-scene embedded background="color: #0f172a">
+        <!-- Optimized VR Scene -->
+        <a-scene embedded background="color: #0f172a" renderer="antialias: true; colorManagement: true; physicallyCorrectLights: true;">
             <!-- Environment -->
             <a-entity environment="preset: tron; gridColor: #3b82f6; groundColor: #0f172a; skyType: atmosphere"></a-entity>
 
@@ -679,6 +682,7 @@
 
         els.btnAnalyze.onclick = async () => {
             if(state.data.length === 0) return;
+            // Check for API Key in process.env (Netlify Environment Variables)
             const key = (typeof process !== 'undefined' && process.env) ? process.env.API_KEY : null;
             if (!key) {
                alert("API_KEY is missing. Please configure it in your Netlify Environment Variables.");
